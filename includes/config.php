@@ -6,7 +6,7 @@
 // Configuración de la base de datos
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'esg_sistema');
-define('DB_USER', 'root');
+define('DB_USER', 'esg_user');
 define('DB_PASS', 'campos480');
 
 // Configuración general
